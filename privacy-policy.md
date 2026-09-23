@@ -4,12 +4,12 @@
 
 ## 1. Data Controller
 
-[Your full name]
-[Street, house number]
-[Postal code, city]
-[Country]
+Thea Hürkamp,
+Rheinberger Str. 102,
+47495 Rheinberg,
+Germany
 
-Email: [your@email.com]
+Email: contora.app@yahoo.com
 
 ## 2. General Information on Data Processing
 
@@ -69,11 +69,11 @@ You have the right at any time to:
 - **Object** to processing (Art. 21 GDPR)
 - **Lodge a complaint with a supervisory authority** (Art. 77 GDPR)
 
-For inquiries, contact: [your@email.com]
+For inquiries, contact: contora.app@yahoo.com
 
 ## 8. Competent Supervisory Authority
 
-[Insert the responsible state data protection authority, e.g. "The State Commissioner for Data Protection of [State]"]
+Bettina Gayk, Kavalleriestraße 2–4, 40213 Düsseldorf, Germany, poststelle@ldi.nrw.de
 
 ## 9. Changes to This Privacy Policy
 
