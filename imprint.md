@@ -2,9 +2,9 @@
 
 Information pursuant to § 5 TMG (German Telemedia Act)
 
-Thea Hürkamp
-Rheinberg Str. 102
-47495 Rheinberg
+Thea Hürkamp,
+Rheinberg Str. 102,
+47495 Rheinberg,
 Germany
 
 ## Contact
@@ -13,9 +13,9 @@ Email: contra.app@yahoo.com
 
 ## Responsible for Content pursuant to § 55(2) RStV
 
-Thea Hürkamp
-Rheinberger Str. 102
-47495 Rheinberg
+Thea Hürkamp,
+Rheinberger Str. 102,
+47495 Rheinberg,
 Germany
 
 ## Dispute Resolution
