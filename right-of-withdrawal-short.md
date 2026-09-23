@@ -1,6 +1,6 @@
 # Right of Withdrawal (Short Version)
 
-Purchases and subscriptions for FlatFlow are processed exclusively through Apple's in-app purchase system. Payment processing, billing, and the handling of withdrawal/refund requests are fully managed by **Apple**, not [your name/company].
+Purchases and subscriptions for FlatFlow are processed exclusively through Apple's in-app purchase system. Payment processing, billing, and the handling of withdrawal/refund requests are fully managed by **Apple**, not by Thea Hürkamp (FlatFlow)
 
 ## Requesting a Withdrawal or Refund
 
@@ -15,7 +15,7 @@ Apple's Terms and Conditions for Media Services apply: https://www.apple.com/leg
 
 For questions not related to payment itself (e.g. regarding app usage, your account, or deleting your account within the app), you can reach us at:
 
-[your@email.com]
+contra.app@yahoo.com
 
 ---
 
