@@ -5,4 +5,3 @@
 - [Right of Withdrawal](right-of-withdrawal.md)
 - [Imprint](imprint.md)
 
-[Deutsche Version / German version](../index.md)
