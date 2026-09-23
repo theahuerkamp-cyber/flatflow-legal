@@ -55,7 +55,7 @@ We do not process data for advertising purposes, and we do not share it with thi
 
 ## 6. Retention Period
 
-Your data is stored for as long as your account exists. After deleting your account (via the app's settings), your profile and associated data will be deleted. [Note: check whether/how long statutory retention obligations apply to payment data, if the app is paid.]
+Your data is stored for as long as your account exists. After deleting your account (via the app's settings), your profile and associated data will be deleted, except for transaction and payment data, which will be retained for up to 10 years to comply with statutory tax and commercial record-keeping obligations.
 
 ## 7. Your Rights
 
