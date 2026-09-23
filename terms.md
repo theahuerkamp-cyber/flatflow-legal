@@ -1,14 +1,15 @@
 # Terms and Conditions
 
-**Last updated: [insert date]**
+**Last updated: [01.10.2026]**
 
 ## 1. Scope
 
 These Terms and Conditions apply to the use of the mobile application "FlatFlow" (the "App"), provided by:
 
-[Your full name]
-[Street, house number]
-[Postal code, city]
+Thea Hürkamp,
+Rheinberger Str. 102,
+47495 Rheinberg,
+Germany
 
 ## 2. Description of Services
 
