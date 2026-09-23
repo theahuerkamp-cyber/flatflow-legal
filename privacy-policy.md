@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: [insert date]**
+**Last updated: [01.10.2026]**
 
 ## 1. Data Controller
 
