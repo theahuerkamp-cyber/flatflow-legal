@@ -28,7 +28,7 @@ FlatFlow is an app for organizing shared households. It offers, among other thin
 
 ## 4. [If applicable] Pricing and Payment
 
-[Insert here if the app has a cost: pricing model (one-time purchase/subscription), billing via the Apple App Store, reservation of the right to change prices, etc.]
+FlatFlow is available as a one-time purchase (e.g. €4.99). Payment processing is handled entirely through the Apple App Store. Apple's terms of use additionally apply.
 
 Payment processing is handled entirely through the Apple App Store. Apple's terms of use additionally apply.
 
