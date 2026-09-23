@@ -19,4 +19,3 @@ contra.app@yahoo.com
 
 ---
 
-*Note: This short version assumes exclusive use of Apple's standard in-app purchase system. If you also offer payment methods outside of Apple (e.g. via a website), the full statutory right of withdrawal continues to apply to those purchases.*
