@@ -2,6 +2,6 @@
 
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms.md)
-- [Widerrufsbelehrung](right-of-withdrawal.md)
+- [Right of Withdrawal](right-of-withdrawal-short.md)
 - [Imprint](imprint.md)
 
