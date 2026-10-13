@@ -1,6 +1,6 @@
 # Right of Withdrawal (Short Version)
 
-Purchases and subscriptions for FlatFlow are processed exclusively through Apple's in-app purchase system. Payment processing, billing, and the handling of withdrawal/refund requests are fully managed by **Apple**, not by Thea Hürkamp (FlatFlow)
+Purchases and subscriptions for FlowFlat are processed exclusively through Apple's in-app purchase system. Payment processing, billing, and the handling of withdrawal/refund requests are fully managed by **Apple**, not by Thea Hürkamp (FlatFlow)
 
 ## Requesting a Withdrawal or Refund
 
