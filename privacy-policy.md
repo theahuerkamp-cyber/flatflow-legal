@@ -34,7 +34,7 @@ This data is only shared within the respective household (defined via a househol
 
 ## 4. Firebase (Google)
 
-FlatFlow uses services from **Google Firebase** (Google Ireland Limited / Google LLC) to store and manage user data:
+FlowFlat uses services from **Google Firebase** (Google Ireland Limited / Google LLC) to store and manage user data:
 
 - **Firebase Authentication**: to manage login data (email, encrypted password)
 - **Cloud Firestore**: to store usage data (see table above)
