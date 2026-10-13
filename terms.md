@@ -4,7 +4,7 @@
 
 ## 1. Scope
 
-These Terms and Conditions apply to the use of the mobile application "FlatFlow" (the "App"), provided by:
+These Terms and Conditions apply to the use of the mobile application "FlowFlat" (the "App"), provided by:
 
 Thea Hürkamp,
 Rheinberger Str. 102,
@@ -13,7 +13,7 @@ Germany
 
 ## 2. Description of Services
 
-FlatFlow is an app for organizing shared households. It offers, among other things:
+FlowFlat is an app for organizing shared households. It offers, among other things:
 
 - Management and fair distribution of chores based on self-reported stress level
 - A shared calendar for household members
@@ -28,7 +28,7 @@ FlatFlow is an app for organizing shared households. It offers, among other thin
 
 ## 4. [If applicable] Pricing and Payment
 
-FlatFlow is available as a one-time purchase (e.g. €4.99). Payment processing is handled entirely through the Apple App Store. Apple's terms of use additionally apply.
+FlowFlat is available as a one-time purchase (e.g. €4.99). Payment processing is handled entirely through the Apple App Store. Apple's terms of use additionally apply.
 
 Payment processing is handled entirely through the Apple App Store. Apple's terms of use additionally apply.
 
