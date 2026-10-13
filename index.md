@@ -1,4 +1,4 @@
-# FlatFlow – Legal Information
+# FlowFlat – Legal Information
 
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms.md)
