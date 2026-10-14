@@ -9,7 +9,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: contra.app@yahoo.com
+E-Mail: contora.app@yahoo.com
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 Medienstaatsvertrag (MStV)
 
