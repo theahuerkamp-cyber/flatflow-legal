@@ -43,7 +43,7 @@ You agree not to misuse the app, in particular:
 - not to enter insulting, discriminatory or unlawful content (e.g. in names, tasks or calendar entries),
 - not to perform automated access (bots, scraping).
 
-You can report violations or problematic content by email: contra.app@yahoo.com
+You can report violations or problematic content by email: contora.app@yahoo.com
 
 ## 7. Liability
 
