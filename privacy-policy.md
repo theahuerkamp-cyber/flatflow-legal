@@ -6,7 +6,7 @@ Last updated: 14 October 2026
 
 Thea Hürkamp, Rheinberger Str. 102, 47495 Rheinberg, Germany
 
-Email: contra.app@yahoo.com
+Email: contora.app@yahoo.com
 
 ## 2. What This Is About
 
