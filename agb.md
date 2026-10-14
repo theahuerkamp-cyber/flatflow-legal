@@ -8,7 +8,7 @@ Diese Bedingungen gelten für die Nutzung der mobilen App „FlatFlow“ (im Fol
 
 Thea Hürkamp, Rheinberger Str. 102, 47495 Rheinberg, Deutschland
 
-E-Mail: contra.app@yahoo.com
+E-Mail: contora.app@yahoo.com
 
 ## 2. Leistungsbeschreibung
 
