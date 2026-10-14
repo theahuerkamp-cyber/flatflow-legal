@@ -30,7 +30,7 @@ Per E-Mail an die Adresse oben, am besten mit einer kurzen Beschreibung.
 
 Do you have a question, found a bug or want to report something? Write to us:
 
-**Email: contra.app@yahoo.com**
+**Email: contora.app@yahoo.com**
 
 ## Frequently Asked Questions
 
