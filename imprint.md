@@ -9,7 +9,7 @@ Germany
 
 ## Contact
 
-Email: contra.app@yahoo.com
+Email: contora.app@yahoo.com
 
 ## Responsible for Content pursuant to § 18(2) Medienstaatsvertrag (MStV)
 
