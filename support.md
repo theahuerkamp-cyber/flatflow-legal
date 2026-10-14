@@ -2,7 +2,7 @@
 
 Du hast eine Frage, einen Fehler gefunden oder möchtest etwas melden? Schreib uns:
 
-**E-Mail: contra.app@yahoo.com**
+**E-Mail: contora.app@yahoo.com**
 
 ## Häufige Fragen
 
