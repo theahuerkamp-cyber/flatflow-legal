@@ -72,7 +72,7 @@ Du hast das Recht auf:
 - **Widerspruch** gegen die Verarbeitung (Art. 21 DSGVO)
 - **Beschwerde bei einer Aufsichtsbehörde** (Art. 77 DSGVO)
 
-Für Anfragen schreib an: contra.app@yahoo.com
+Für Anfragen schreib an: contora.app@yahoo.com
 
 ## 11. Zuständige Aufsichtsbehörde
 
