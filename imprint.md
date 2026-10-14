@@ -1,25 +1,20 @@
 # Imprint (Legal Notice)
 
-Information pursuant to § 5 TMG (German Telemedia Act)
+Information pursuant to § 5 Digital Services Act (DDG, Germany)
 
-Thea Hürkamp,
-Rheinberg Str. 102,
-47495 Rheinberg,
+Thea Hürkamp  
+Rheinberger Str. 102  
+47495 Rheinberg  
 Germany
 
 ## Contact
 
 Email: contra.app@yahoo.com
 
-## Responsible for Content pursuant to § 55(2) RStV
+## Responsible for Content pursuant to § 18(2) Medienstaatsvertrag (MStV)
 
-Thea Hürkamp,
-Rheinberger Str. 102,
-47495 Rheinberg,
-Germany
+Thea Hürkamp, Rheinberger Str. 102, 47495 Rheinberg, Germany
 
-## Dispute Resolution
+## Consumer Dispute Resolution
 
-The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr/
-
-We are not obliged and not willing to participate in dispute resolution proceedings before a consumer arbitration board. 
+We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
