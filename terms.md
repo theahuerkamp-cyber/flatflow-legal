@@ -8,7 +8,7 @@ These Terms and Conditions apply to the use of the mobile application "FlatFlow"
 
 Thea Hürkamp, Rheinberger Str. 102, 47495 Rheinberg, Germany
 
-Email: contra.app@yahoo.com
+Email: contora.app@yahoo.com
 
 ## 2. Description of Services
 
